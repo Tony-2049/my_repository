@@ -1,0 +1,22 @@
+div {text-align: center;
+margin:auto;
+width: 500px;
+line-height: 28px;}
+
+h1 {font-size: 21px;}
+
+h2 {color: #757575;
+font-weight: normal;
+}
+
+a {text-decoration: none;
+margin: 0 10px;}
+
+.imagem-logotipo {width: 150px;}
+
+.texto-negrito {font-weight: bold;}
+
+.texto-vermelho {color: #ff2200;}
+
+.imagem-rede-social {width: 40px;}
+
